@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    text-align: center;
+}
+
+.frame {
+    display: inline-block;
+    padding-top: 50px;
+}
+
+#game {
+    display: flex;
+}
+
+.menu {
+    border: green 1px solid;
+    width: 240px;
+    height: 600px;
+    text-align: center;
+    padding-top: 20px;
+}
+
+canvas {
+    border: green 1px solid;
+}
